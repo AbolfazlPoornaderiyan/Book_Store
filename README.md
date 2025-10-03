@@ -20,7 +20,4 @@
 
 برای راه‌اندازی و اجرای این پروژه روی سیستم خود، مراحل زیر را دنبال کنید.
 
-### ۱. کلون کردن مخزن (Repository)
-```bash
-git clone [https://github.com/AbolfazlPoornaderiyan/Book_Store.git](https://github.com/AbolfazlPoornaderiyan/Book_Store.git)
-cd Book_Store
+
